@@ -7,4 +7,4 @@
 4. [Codice prefisso](http://svel.to/on7), [TEST](http://svel.to/onw)
 5. [Codifica delle immagini](http://didattica.github.io/isidoro/#/slides/basics)
 6. [Digital image](http://svel.to/on0), [Quiz](http://svel.to/omz)
-7. [Codifica di Huffman](http://svel.to/p8n), [TEST](http://svel.to/pof)
+7. [Codifica di Huffman](http://svel.to/p8n), [TEST-1](http://svel.to/pof), [TEST-2](http://svel.to/ppr)
