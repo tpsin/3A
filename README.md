@@ -18,3 +18,4 @@
 2. [Array di caratteri e array stringa](http://svel.to/r4s)
 3. [malloc, calloc, realloc e free](http://svel.to/nes)
 4. [Esercizi sui puntatori](https://github.com/tpsin/pointer)
+5. [Puntatori a funzioni in C](http://svel.to/rw3)
