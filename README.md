@@ -14,8 +14,9 @@
 2. [Hamming Code Exercises](http://svel.to/q4b)
 
 ## Lezioni, terza parte
-1. [I puntatori](svel.to/os3)
+1. [I puntatori](http://svel.to/os3)
 2. [Array di caratteri e array stringa](http://svel.to/r4s)
 3. [malloc, calloc, realloc e free](http://svel.to/nes)
-4. [Esercizi sui puntatori](https://github.com/tpsin/pointer)
-5. [Puntatori a funzioni in C](http://svel.to/rw3)
+4. [Puntatori a funzioni in C](http://svel.to/rw3)
+5. [Esercizi sui puntatori](https://github.com/tpsin/pointer)
+6. [Test sui puntatori](http://svel.to/t27)
